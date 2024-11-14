@@ -7,6 +7,7 @@ A név még változhat.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -"Passive" In Progress
 <br>"11/7" Új címke lett létrehozva
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Passive
+<br>"11/14" Devlog mappa hozzáadása a main-hez
 
 <br><br>
 Elnézést a helyesírási hibákért.
