@@ -11,3 +11,7 @@ A név még változhat.
 
 <br><br>
 Elnézést a helyesírási hibákért.
+<br><br>
+https://dufoffice365-my.sharepoint.com/:f:/g/personal/72596305947_tanulo_bankisuli_hu/Et4uijLQ0T5AvCkSQe06i7YBbygBGyPsw9MXTnzmBMuwew?e=5qJZzg
+<br>
+A játék fájljainak a linkje
