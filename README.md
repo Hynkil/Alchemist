@@ -1,4 +1,4 @@
-# Fenrir-squad
+# Alchemist
 A név még változhat.
 <br>A program rpg maker mzben lesz megcsinálva és JavaScript segítségével.
 <br>Ha szükséges akkor mások által készíttet JavaScriptek itt lesznek találhatóak.
